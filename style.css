@@ -1,5 +1,23 @@
+table{
+    border-collapse: collapse;
+}
+
+
 h1{
     text-align: center;
     background-color: gainsboro;
 }
+
+
+.tooMuch{
+    background-color: red;
+}
+
+
+#data{
+    width: 100%;
+    border: 1px solid black;
+    text-align: left;
+}
+
 
